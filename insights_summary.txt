@@ -12,18 +12,18 @@ Tool: Tableau
 
 🔍 Insights:
 
-1. 💡 **Top Performing Category**: Technology generates the highest sales and profit margins.
-2. 🛑 **Low Margin Products**: Office Supplies have decent sales but low overall profitability.
-3. 🌍 **Regional Performance**:
+1. 💡 Top Performing Category: Technology generates the highest sales and profit margins.
+2. 🛑 Low Margin Products: Office Supplies have decent sales but low overall profitability.
+3. 🌍 Regional Performance:
    - West region leads in sales and profit.
    - South region shows lower profit margins—opportunity to optimize pricing or shipping.
-4. 📈 **Monthly Trends**:
+4. 📈 Monthly Trends:
    - Highest sales in Q4 (Oct–Dec), indicating strong seasonal influence.
    - Dip observed in February and April.
-5. 🏆 **Top Products**:
+5. 🏆 Top Products:
    - Phones and Chairs dominate top sales lists.
    - Certain products like Tables yield low or negative profits.
-6. 🚚 **Shipping Delays**:
+6. 🚚 Shipping Delays:
    - Average shipping time is 3.1 days.
    - Central region shows slightly slower delivery performance.
 
